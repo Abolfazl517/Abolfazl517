@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Abolfazl
-- 🔴 I'm a HighSchool Student and a Youtuber in Iran
-- 🌱 I’m currently learning Python, Java and Frontend development
+Abolfazl
